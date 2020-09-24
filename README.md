@@ -1,6 +1,10 @@
-# kariyerburada
+# kariyerburada Mobil Uygulama
 
-A new Flutter project.
+Mustafa Altundağ arkadaşım ile geliştirmiş olduğumuz projedir.
+Web uygulaması ile ortak veritabanı kullanılmıştır.
+https://kariyerburadamobile.000webhostapp.com/kariyerburada/ sitesinden etkileşim yapabilirsiniz.
+ 
+
 
 ## Getting Started
 
