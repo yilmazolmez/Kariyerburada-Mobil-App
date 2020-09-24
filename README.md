@@ -5,8 +5,8 @@ Web uygulaması ile ortak veritabanı kullanılmıştır.
 https://kariyerburadamobile.000webhostapp.com/kariyerburada/ sitesinden etkileşim yapabilirsiniz.
  
 ![resim1.jpg](resim1.jpg)
-![resim2.jpg](resim1.jpg)
-![resim2.jpg](resim1.jpg)
+![resim2.jpg](resim2.jpg)
+![resim2.jpg](resim3.jpg)
 
 ## Getting Started
 
